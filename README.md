@@ -5,10 +5,10 @@
 ## FAQ
 
 - why?
- - i wanted to do advent of code 2025 in pure-functional ocaml. then i got carried away
+  - i wanted to do advent of code 2025 in pure-functional ocaml. then i got carried away
 - blazingly fast?
- - mid
+  - mid
 - comprehensive?
- - not yet
+  - not yet
 - monad?
- - entirely too many
+  - entirely too many
